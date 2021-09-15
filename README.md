@@ -1,6 +1,6 @@
 ### Hi there 
 
-[![Lencamo's github stats](https://github-readme-stats.vercel.app/api?username=Cl0udG0d)](https://github.com/anuraghazra/github-readme-stats)
+[![Lencamo's github stats](https://github-readme-stats.vercel.app/api?username=Lencamo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Lencamo/Lencamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
