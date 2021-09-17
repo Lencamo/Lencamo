@@ -2,7 +2,7 @@
 ### Learn from yesterday✨, live for today✨, hope for tomorrow✨.
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![](https://visitor-badge.glitch.me/badge?page_id=Lencamo.readme)
 <br>
-&emsp;&emsp; ![info](https://github-readme-stats.vercel.app/api?username=Lencamo&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
+&emsp;&emsp;  ![info](https://github-readme-stats.vercel.app/api?username=Lencamo&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
   
 </a>
 <!--
