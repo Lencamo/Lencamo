@@ -1,6 +1,5 @@
-## Welcom to my home!🎈🎉✨
-&emsp;&emsp;&emsp;Learn from yesterday, live for today, hope for tomorrow.<br>
-【if you like my repositories,welecom ☆ 】
+# 🎈Welcom to my home!🎈
+&emsp;&emsp;&emsp;<h3>Learn from yesterday✨, live for today✨, hope for tomorrow✨.</h3>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Lencamo's github stats](https://github-readme-stats.vercel.app/api?username=Lencamo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
