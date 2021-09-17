@@ -1,6 +1,7 @@
-### Hi there 
-
-[![Lencamo's github stats](https://github-readme-stats.vercel.app/api?username=Lencamo)](https://github.com/anuraghazra/github-readme-stats)
+## Welcom to my home!🎈🎉✨
+&emsp;&emsp;&emsp;Learn from yesterday, live for today, hope for tomorrow.<br>
+【if you like my repositories,welecom ☆ 】
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Lencamo's github stats](https://github-readme-stats.vercel.app/api?username=Lencamo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Lencamo/Lencamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
