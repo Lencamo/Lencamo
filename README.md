@@ -1,10 +1,16 @@
-# 🎈Welcom to my home!🎈
-&emsp;&emsp;&emsp;<h3>Learn from yesterday✨, live for today✨, hope for tomorrow✨.</h3>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Lencamo's github stats](https://github-readme-stats.vercel.app/api?username=Lencamo)](https://github.com/anuraghazra/github-readme-stats)
-
+# 🎈Welcom to my home!🎈 
+### Learn from yesterday✨, live for today✨, hope for tomorrow✨.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![](https://visitor-badge.glitch.me/badge?page_id=Lencamo.readme)
+<br>
+&emsp;&emsp; ![info](https://github-readme-stats.vercel.app/api?username=Lencamo&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
+  
+</a>
 <!--
-**Lencamo/Lencamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+url中username为你的Github用户名，theme为主题配置，支持的主题样式丰富。
+default_repocard, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
+**Lencamo/Lencamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Lencamo's github stats](https://github-readme-stats.vercel.app/api?username=Lencamo)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
