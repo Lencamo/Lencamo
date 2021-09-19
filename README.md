@@ -4,7 +4,7 @@
 <br>
 ![info](https://github-readme-stats.vercel.app/api?username=Lencamo&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
 <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <b>🐱‍👤Continuously updating🐱‍👤</b>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <b>🐱‍👤Continuously updating🐱‍👤</b>
 <!--
 url中username为你的Github用户名，theme为主题配置，支持的主题样式丰富。
 default_repocard, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
