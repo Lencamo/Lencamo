@@ -6,6 +6,7 @@
 <p align="center">
 我不是一个乐观的人，但我又是对明天充满希望的人。
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white">
@@ -24,14 +25,16 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white">
 </p>
 
-<!-- 贡献信息 -->
 
-<a  href="https://github.com/Lencamo/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Lencamo&show_icons=true&theme=tokyonight&rank_icon=percentile" />
-</a>
+<!-- 访问统计 -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Lencamo/count.svg" />
+</p>
 
-<!-- 活动信息 -->
+<p align="center">
+  <!-- 贡献信息 -->
+  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api?username=Lencamo&include_all_commits=true&show_icons=true&hide=prs,issues" />
 
-<a  href="https://github.com/Lencamo/github-readme-stats">
-  <img height="140px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lencamo" /> 
-</a>
+  <!-- 活动信息 -->
+  <!-- <img height="140px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lencamo" /> -->
+</p>
